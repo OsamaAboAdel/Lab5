@@ -1,8 +1,7 @@
-package Assignments.Lab5;//package Lab_5_Assignments;
-//
-///**
-// * Created by user on 07/03/2022.
-// */
+
+/**
+ * Created by ${*  Osama Abo Adel  *} on 1/2/2022.
+ */
 //public class C_3_35 {
 //    public DoublyLinkedList_Q3<E> clone() throws CloneNotSupportedException {
 //        // always use inherited Object.clone() to create initial copy
